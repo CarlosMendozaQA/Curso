@@ -1,5 +1,10 @@
 Visual Studio Code archivo
 
+
+Cambio en rama local VSC
+
+Cambios en rama MAIN
+
 Actualizacion al archivo desde CODEVS
 
 Actualizacion al archivo desde MAIN
